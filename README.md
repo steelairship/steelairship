@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @steelairship
 - 👀 I’m interested in Frontend web development, machine learning, Python, C++, and game development
-- 🌱 I’m currently learning Python and ROS
+- 🌱 I’m currently learning Python and frontend web development
 - 💞️ I’m looking to collaborate on Python projects and indie/open source video game projects
 - 📫 How to reach me: sjtw96@gmail.com
 
